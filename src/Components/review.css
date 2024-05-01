@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@200;300;400;500;600;700;800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap');
+.card-container2
+{   
+    width: 75vw;
+    height: 75vh;
+    background-color: black;
+    color: white;
+    margin-left:10%;
+    text-align: center;
+}
+
+.rev
+{
+    padding-top: 10%;
+    font-size: 12rem;
+    color: white;
+    font-family: "Jersey 15", sans-serif;
+}
+.cards2
+{
+    width: 20vw;
+    height: 25vh;
+    background-color: white;
+    color: black;
+    border: 1px solid rgb(186, 186, 186);
+    border-radius: 10px;
+    box-shadow: rgba(255, 254, 254, 0.56) 0px 3px 8px;
+    margin-top: 2%;
+}
+.review
+{
+    text-align: left;
+    padding-top: 5%;
+    padding-left: 5%;
+    /* font-family: "Mukta", sans-serif; */
+}
+.review p{
+    font-family: "Mukta", sans-serif;
+    line-height: 1.5;
+    font-weight: 500;
+    font-size: 1.5rem;
+}
+
+.user-info
+{   
+    margin-top: 5%;
+    display: flex;
+    align-items: center;
+}
+
+.user-img
+{
+    background-color: black;
+    width: 5vw;
+    height: 10vh;
+    border-radius: 50%;
+    margin-left: 5%;
+}
+.user-img .img{
+    background-size: contain;
+    width: 5vw;
+    height: 10vh;
+    border-radius: 50%;
+}
+.user-name
+{
+    padding-left: 20px;
+    font-size: 1rem;
+    text-align: left;
+}
+
+.user-name h2
+{
+    font-size: 2rem;
+}
+.user-name i
+{
+    color: rgb(255, 255, 48);
+    font-size: 1rem;
+}

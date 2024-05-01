@@ -1,0 +1,54 @@
+[
+      {
+        "author_image": "https://media.istockphoto.com/id/1164351443/photo/frontal-portrait-of-a-man-in-eyeglasses-wearing-in-black-shirt-seated-on-a-wooden-table.jpg?s=2048x2048&w=is&k=20&c=jHgpTwI8l4jka1C0hQ9EMgixH2a6rZCZ0L7x6jTm-eU=",
+        "name": "John Smith",
+        "about": "John Smith is a bestselling author known for his gripping mystery novels."
+      },
+      {
+        "author_image": "https://media.istockphoto.com/id/1496129820/photo/women-leader-in-her-business.jpg?s=2048x2048&w=is&k=20&c=Gplk4sZ5cqk4dbU3O889VjVma4RzbD_C5JKCkawhQM0=",
+        "name": "Emily Johnson",
+        "about": "Emily Johnson is a poet whose work explores themes of nature and introspection."
+      },
+      {
+        "author_image": "https://images.unsplash.com/photo-1556157382-97eda2d62296?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "name": "David Lee",
+        "about": "David Lee is a historian specializing in ancient civilizations."
+      },
+      {
+        "author_image": "https://images.unsplash.com/photo-1598257006756-51088d8c1126?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "name": "Samantha Carter",
+        "about": "Samantha Carter is a science fiction writer with a focus on space exploration."
+      },
+      {
+        "author_image": "https://images.unsplash.com/photo-1537511446984-935f663eb1f4?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "name": "Michael Chang",
+        "about": "Michael Chang is a philosopher whose work examines ethics and morality."
+      },
+      {
+        "author_image": "https://images.pexels.com/photos/762020/pexels-photo-762020.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "name": "Sarah Adams",
+        "about": "Sarah Adams is a journalist covering international politics and conflicts."
+      },
+      {
+        "author_image": "https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "name": "Daniel Brown",
+        "about": "Daniel Brown is a fantasy author known for his epic world-building and intricate plots."
+      },
+      {
+        "author_image": "https://images.unsplash.com/photo-1598257006458-087169a1f08d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "name": "Rachel Garcia",
+        "about": "Rachel Garcia is a children's book author and illustrator who creates whimsical stories."
+      },
+      {
+        "author_image": "https://media.istockphoto.com/id/1186299109/photo/im-just-going-to-hang-around-home-today.jpg?s=2048x2048&w=is&k=20&c=mfDa7PP4OPcC1Jl-0L9ad3UB5Rmd81Rxzs_tbSbaG38=",
+        "name": "Alexandra Martinez",
+        "about": "Alexandra Martinez is a psychologist who writes about mental health and well-being."
+      },
+      {
+        "author_image": "https://media.istockphoto.com/id/1459398604/photo/gym-fitness-and-portrait-of-proud-man-standing-with-smile-motivation-health-and-energy-for.jpg?s=2048x2048&w=is&k=20&c=yna0-d6r56mJzH-SEu493zHj8esp4iDBJCtoZFlTTRA=",
+        "name": "Mark Thompson",
+        "about": "Mark Thompson is a technology writer covering the latest innovations and trends."
+      }
+]
+
+  

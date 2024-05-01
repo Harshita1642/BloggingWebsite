@@ -1,0 +1,64 @@
+ [
+      {
+        "user": "Alice",
+        "photo": "https://images.pexels.com/photos/1065084/pexels-photo-1065084.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "rating": 5,
+        "comment": "The blog website is fantastic! It offers a wide range of interesting articles."
+      },
+      {
+        "user": "Bob",
+        "photo": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "rating": 4,
+        "comment": "I enjoy browsing through the blog's content. It's well-written and informative."
+      },
+      {
+        "user": "Charlie",
+        "photo": "https://images.pexels.com/photos/1043474/pexels-photo-1043474.jpeg",
+        "rating": 3,
+        "comment": "It's a decent blog, but I wish there were more frequent updates."
+      },
+      {
+        "user": "David",
+        "photo": "https://images.pexels.com/photos/775358/pexels-photo-775358.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "rating": 5,
+        "comment": "This blog is amazing! I've learned so much from its insightful articles."
+      },
+      {
+        "user": "Emily",
+        "photo": "https://images.pexels.com/photos/1181686/pexels-photo-1181686.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "rating": 2,
+        "comment": "I find the blog website confusing to navigate. It needs better organization."
+      },
+      {
+        "user": "Frank",
+        "photo": "https://images.pexels.com/photos/769745/pexels-photo-769745.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "rating": 4,
+        "comment": "Solid content and well-designed website. A great resource for information."
+      },
+      {
+        "user": "Grace",
+        "photo": "https://images.pexels.com/photos/371160/pexels-photo-371160.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "rating": 3,
+        "comment": "The blog is okay, but it lacks variety in topics covered."
+      },
+      {
+        "user": "Hannah",
+        "photo": "https://images.pexels.com/photos/1181690/pexels-photo-1181690.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "rating": 5,
+        "comment": "One of my favorite blog websites! Always interesting and informative."
+      },
+      {
+        "user": "Isaac",
+        "photo": "https://images.pexels.com/photos/837306/pexels-photo-837306.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "rating": 4,
+        "comment": "I enjoy reading articles on this blog. The writing style is engaging."
+      },
+      {
+        "user": "Jessica",
+        "photo": "https://images.pexels.com/photos/4058316/pexels-photo-4058316.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "rating": 2,
+        "comment": "Not impressed with the blog's content. It lacks depth and originality."
+      }
+    ]
+
+  

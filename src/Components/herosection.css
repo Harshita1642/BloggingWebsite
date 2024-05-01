@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:regular,bold,italic&subset=latin,latin-ext');
+@import url('https://fonts.googleapis.com/css2?family=Anta&family=Caveat:wght@400..700&family=Jersey+15&family=Outfit:wght@100..900&family=Space+Grotesk:wght@300..700&family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap');
+.herosec
+{
+    /* background-color: black; */
+    width: 75vw;
+    height: 100vh;
+    color: white;
+    border-top: 1.5px solid rgba(78, 77, 77, 0.799);
+    padding-top: 10%;
+    margin-left: 10%;
+}
+
+.heading
+{
+    font-family: "Jersey 15", sans-serif;
+    font-size: 10rem;
+}
+
+.desc
+{
+    font-family: "Titillium Web", sans-serif;
+    word-spacing: 2px;
+    letter-spacing: 1.2px;
+    font-size: 1.5rem;
+}
+
+.startbtn
+{
+    margin-top: 3%;
+    width: 10vw;
+    height: 5vh;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    border: none;
+    background-color: white;
+}
+
+.startbtn:hover
+{
+    background-color: black;
+    color: white;
+}
+
+.frame
+{
+    width: 75vw;
+    height: 95vh;
+    margin-top: 5%;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: linear-gradient(to right bottom, #282828, #4b4b4b, #717171, #9a9a9a, #c5c5c5);
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+}
+
+.insideframe
+{
+    width: 73vw;
+    height: 90vh;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+}
+
+.section2
+{
+    width: 75vw;
+    height: 150vh;
+    /* background-color: rgb(223, 201, 246); */
+}
+
+.title1
+{   
+    font-family: "Jersey 15", sans-serif;
+    color: black;
+    font-size: 12rem;
+    padding-top: 10%;
+    line-height: 0.9;
+}
+
+.info
+{
+    color: black;
+    font-family: "Titillium Web", sans-serif;
+    word-spacing: 2px;
+    letter-spacing: 1.2px;
+    font-size: 1.5rem;
+}
+
+.writingbtn
+{
+    width: 10vw;
+    height: 5vh;
+    margin-top: 2%;
+    border: none;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+}
+
+.box
+{
+    display: flex;
+    padding-top: 10%;
+    height: 90vh;
+    /* background-color: aquamarine; */
+}
+
+.box1
+{
+    /* background-color: #717171; */
+    box-sizing: border-box;
+    height: 40vh;
+    margin-top: 5%;
+}
+.box2
+{
+    /* background-color: #4b4b4b; */
+    width: 35vw;
+    margin-left: 30px;
+    background-image: url('../assets/image1.jpg');
+    background-size: cover;
+    
+}

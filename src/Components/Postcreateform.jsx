@@ -4,7 +4,7 @@ import JoditEditor from 'jodit-react';
 import UploadWidget from './UploadWidget';
 import AmazingPost from './Postcard';
 import './postcreateform.css'
-const PostForm = () => {
+const Postcreateform = ({userDetailsContainer}) => {
   const [title, setTitle] = useState('');
   const [content, setContent] = useState('');
   const [imageUrl, setImageUrl] = useState('');
@@ -21,10 +21,12 @@ const PostForm = () => {
 
  const createPost =   (e) => {
     e.preventDefault();
-    console.log("Title:"+title);
+    // console.log("Title:"+title);
     // await setContent( stripHtmlTags(content));
-    console.log("Text:",  stripHtmlTags(content));
-    console.log("Url:"+imageUrl);
+    // console.log("Text:",  stripHtmlTags(content));
+    // console.log("Url:"+imageUrl);
+    const email = userDetailsContainer.email; // Replace with dynamic email if needed
+    const name = email.split('@')[0];
     fetch('https://blogdbapi.onrender.com/createPost', {
          method: 'POST',
          body: JSON.stringify({
@@ -93,4 +95,4 @@ const PostForm = () => {
   );
 };
 
-export default PostForm;
+export default Postcreateform;

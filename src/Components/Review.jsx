@@ -43,7 +43,7 @@ const Review = () => {
         {data.map(item => (
           <div className="cards2" key={item.user}>
             <div className='review'>
-            <i class="fa-solid fa-quote-left"></i>
+            <i className="fa-solid fa-quote-left"></i>
                 <p>{item.comment}</p>
             </div>
             <div className='user-info'>

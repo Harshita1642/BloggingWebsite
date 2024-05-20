@@ -30,7 +30,7 @@ const Postcreateform = ({userDetailsContainer}) => {
     fetch('https://blogdbapi.onrender.com/createPost', {
          method: 'POST',
          body: JSON.stringify({
-            username: 'keshav',
+            username: `${name}`,
             post:[
               {
                 title: title,

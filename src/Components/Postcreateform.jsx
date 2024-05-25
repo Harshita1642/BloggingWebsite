@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import 'jodit';
+// import 'jodit';
 import JoditEditor from 'jodit-react';
 import UploadWidget from './UploadWidget';
 import AmazingPost from './Postcard';

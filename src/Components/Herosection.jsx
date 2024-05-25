@@ -36,4 +36,4 @@ const Herosection = () =>{
   );
 }
 
-export default Herosection
+export default Herosection;
